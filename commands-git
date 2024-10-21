@@ -1,0 +1,4 @@
+git clone https://github.com/morgane-rossi/git-begins
+git add commands-git
+git commit -m "added commands-git file"
+git push
